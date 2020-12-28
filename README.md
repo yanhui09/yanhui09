@@ -8,7 +8,7 @@
 ![](https://komarev.com/ghpvc/?username=yanhui09&style=flat-square)
 
 -  **Working :**  Bioinformatics :computer: | Sequencing :dna: 
--  **Hobbies :** Games :video_game: | Music :headphones:
+-  **Hobbies :** Gaming :video_game: | Music :headphones:
 -  **Interests :** Could coumputing :cloud: | Math :1234: | Languages :capital_abcd:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <img align="right" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanhui09&show_icons=true&layout=compact&langs_count=8" />
