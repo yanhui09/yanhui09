@@ -1,5 +1,5 @@
 <h2> Hi, I'm Yan! <img src="https://media.giphy.com/media/XbsO51SFsJgome55fB/source.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/EOfr3pMsihGmzZFo2B/source.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/EOfr3pMsihGmzZFo2B/source.gif" width="220">
 <p><em>PhD student at <a href="https://www.ku.dk/">University of Copenhagen</a><img src="https://media.giphy.com/media/H1qAEy85tdGzHDjvaC/source.gif" width="30"> Microbiome decoder <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
 
