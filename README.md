@@ -7,7 +7,7 @@
 [![GitHub yanhui09](https://img.shields.io/github/followers/yanhui09?label=follow&style=social)](https://github.com/yanhui09)
 ![](https://komarev.com/ghpvc/?username=yanhui09&style=flat-square)
 
--  **Working :**  bioinformatics :computer: | sequencing :dna: 
+-  **Working :**  Bioinformatics :computer: | Sequencing :dna: 
 -  **Hobbies :** Games :video_game: | Music :headphones:
 -  **Interests :** Could coumputing :cloud: | Math :1234: | Languages :capital_abcd:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
