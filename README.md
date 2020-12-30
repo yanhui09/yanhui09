@@ -12,5 +12,5 @@
 -  **Hobbies :** Gaming :video_game: | Music :headphones:
 -  **Interests :** Could coumputing :cloud: | Math :1234: | Languages :capital_abcd:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<img align="right" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanhui09&show_icons=true&layout=compact&langs_count=8" />
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=yanhui09&&theme=default" />
+<!-- img align="right" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanhui09&show_icons=true&layout=compact&langs_count=8" />
+<!-- img height="180" src="https://github-readme-stats.vercel.app/api?username=yanhui09&&theme=default" />
