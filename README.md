@@ -3,7 +3,7 @@
 <p><em>PhD student at <a href="https://www.ku.dk/">University of Copenhagen</a><img src="https://media.giphy.com/media/H1qAEy85tdGzHDjvaC/source.gif" width="30"> Microbiome decoder <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
 
-[![Linkedin: yanhui](https://img.shields.io/badge/-yanhui-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yan-hui-376870a5/)](https://www.linkedin.com/in/yan-hui-376870a5/)
+[![Linkedin: yanhui](https://img.shields.io/badge/-yanhui-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yan-hui-376870a5/)](https://www.linkedin.com/in/yan-hui/)
 [![Twitter: yanhuii09](https://img.shields.io/twitter/follow/yanhuii09?style=social)](https://twitter.com/yanhuii09)
 [![GitHub yanhui09](https://img.shields.io/github/followers/yanhui09?label=follow&style=social)](https://github.com/yanhui09)
 ![](https://komarev.com/ghpvc/?username=yanhui09&style=flat-square)
