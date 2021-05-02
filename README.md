@@ -1,6 +1,6 @@
 <h2> Hi, I'm Yan! <img src="https://media.giphy.com/media/XbsO51SFsJgome55fB/source.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/EOfr3pMsihGmzZFo2B/source.gif" width="200">
-<p><em>PhD student at <a href="https://www.ku.dk/">University of Copenhagen</a><img src="https://media.giphy.com/media/H1qAEy85tdGzHDjvaC/source.gif" width="30"> Microbiome decoder <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<p><em>Postdoc at <a href="https://www.ku.dk/">University of Copenhagen</a><img src="https://media.giphy.com/media/H1qAEy85tdGzHDjvaC/source.gif" width="30"> Microbiome decoder <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
 
 [![Linkedin: yanhui](https://img.shields.io/badge/-yanhui-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yan-hui-376870a5/)](https://www.linkedin.com/in/yan-hui/)
